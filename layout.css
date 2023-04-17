@@ -1,0 +1,62 @@
+html{
+    font-size: 62.5%;
+    
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#304F4F ;
+}
+.vihrea{background-color:#304F4F;
+    
+    color: white;
+    padding: 2rem;
+    margin: 2rem;
+    border: solid white 1rem;
+    max-width: 1054px;
+}
+h1,h2,h3,h4,h5,h6,p{margin-block-end: 1rem;}
+
+h1{font-size: 3.2rem;
+    color: #ddb78a;
+}
+h2{font-size: 2.8rem;
+color: #2FF82D;}
+h3{font-size: 2.4rem;}
+h4{font-size: 2.2rem;}
+h5{font-size: 2rem;}
+h6{font-size: 1.8rem;}
+p{
+    font-size: 1.6rem;
+}
+.strong{font-weight: 700;
+color: #07FEFE;}
+.emphasized{font-style: italic;}
+.marked{background-color: yellow;
+    color: black;
+    padding: 0.5rem;
+
+}
+.small{
+    font-size: 1rem ;
+    color: red;
+
+
+}
+.overline{
+    text-decoration:line-through;
+}
+.underlined{ text-decoration: underline;
+
+}
+.subscript{
+        vertical-align: sub;
+        font-size: 1rem;
+}
+.superscript{
+    vertical-align: super;
+    font-size: 1rem;
+}
+
+
+
+
